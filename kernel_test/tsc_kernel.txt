@@ -1,0 +1,212 @@
+[10525.965116] 
+               CUCL: Test parameters: Threshold 40 cycles 1260000000000 samples 10000
+[10525.965120] CUCL: number of events:	50
+[10525.965121] CUCL: run time:    	1260000000392 cycles
+
+[10525.965123] CUCL: min		148
+               1%		148
+               5%		148
+               10%		148
+               25%		148
+               median		148
+               75%		2516
+               90%		3996
+               95%		4772
+               99%		5036
+               99.9%		5036
+               max		5036
+[10525.965127] 
+               
+               CUCL: Global statistics: Total Events	838425822	Run time[cycles]	26829326036 
+[10525.965129] CUCL: Threshold[cycles]	25		Events	838425822		Time[cycles]	26829326036
+[10525.965130] CUCL: Threshold[cycles]	26		Events	838425822		Time[cycles]	26829326036
+[10525.965131] CUCL: Threshold[cycles]	27		Events	838425822		Time[cycles]	26829326036
+[10525.965131] CUCL: Threshold[cycles]	28		Events	838425822		Time[cycles]	26829326036
+[10525.965132] CUCL: Threshold[cycles]	29		Events	838334777		Time[cycles]	26826776776
+[10525.965133] CUCL: Threshold[cycles]	30		Events	838334777		Time[cycles]	26826776776
+[10525.965134] CUCL: Threshold[cycles]	31		Events	838334777		Time[cycles]	26826776776
+[10525.965135] CUCL: Threshold[cycles]	32		Events	838334777		Time[cycles]	26826776776
+[10525.965136] CUCL: Threshold[cycles]	33		Events	50		Time[cycles]	65512
+[10525.965137] CUCL: Threshold[cycles]	34		Events	50		Time[cycles]	65512
+[10525.965137] CUCL: Threshold[cycles]	35		Events	50		Time[cycles]	65512
+[10525.965138] CUCL: Threshold[cycles]	36		Events	50		Time[cycles]	65512
+[10525.965139] CUCL: Threshold[cycles]	37		Events	50		Time[cycles]	65512
+[10525.965140] CUCL: Threshold[cycles]	38		Events	50		Time[cycles]	65512
+[10525.965141] CUCL: Threshold[cycles]	39		Events	50		Time[cycles]	65512
+[10525.965142] CUCL: Threshold[cycles]	40		Events	50		Time[cycles]	65512
+[10525.965142] CUCL: Threshold[cycles]	41		Events	50		Time[cycles]	65512
+[10525.965143] CUCL: Threshold[cycles]	42		Events	50		Time[cycles]	65512
+[10525.965144] CUCL: Threshold[cycles]	43		Events	50		Time[cycles]	65512
+[10525.965145] CUCL: Threshold[cycles]	44		Events	50		Time[cycles]	65512
+[10525.965146] CUCL: Threshold[cycles]	45		Events	50		Time[cycles]	65512
+[10525.965146] CUCL: Threshold[cycles]	46		Events	50		Time[cycles]	65512
+[10525.965147] CUCL: Threshold[cycles]	47		Events	50		Time[cycles]	65512
+[10525.965148] CUCL: Threshold[cycles]	48		Events	50		Time[cycles]	65512
+[10525.965149] CUCL: Threshold[cycles]	49		Events	50		Time[cycles]	65512
+[10525.965150] CUCL: Threshold[cycles]	50		Events	50		Time[cycles]	65512
+[10525.965151] CUCL: Threshold[cycles]	51		Events	50		Time[cycles]	65512
+[10525.965151] CUCL: Threshold[cycles]	52		Events	50		Time[cycles]	65512
+[10525.965152] CUCL: Threshold[cycles]	53		Events	50		Time[cycles]	65512
+[10525.965153] CUCL: Threshold[cycles]	54		Events	50		Time[cycles]	65512
+[10525.965154] CUCL: Threshold[cycles]	55		Events	50		Time[cycles]	65512
+[10525.965155] CUCL: Threshold[cycles]	56		Events	50		Time[cycles]	65512
+[10525.965155] CUCL: Threshold[cycles]	57		Events	50		Time[cycles]	65512
+[10525.965156] CUCL: Threshold[cycles]	58		Events	50		Time[cycles]	65512
+[10525.965157] CUCL: Threshold[cycles]	59		Events	50		Time[cycles]	65512
+[10525.965158] CUCL: Threshold[cycles]	60		Events	50		Time[cycles]	65512
+[10525.965159] CUCL: Threshold[cycles]	61		Events	50		Time[cycles]	65512
+[10525.965160] CUCL: Threshold[cycles]	62		Events	50		Time[cycles]	65512
+[10525.965160] CUCL: Threshold[cycles]	63		Events	50		Time[cycles]	65512
+[10525.965161] CUCL: Threshold[cycles]	64		Events	50		Time[cycles]	65512
+[10525.965162] CUCL: Threshold[cycles]	65		Events	50		Time[cycles]	65512
+[10525.965163] CUCL: Threshold[cycles]	66		Events	50		Time[cycles]	65512
+[10525.965164] CUCL: Threshold[cycles]	67		Events	50		Time[cycles]	65512
+[10525.965165] CUCL: Threshold[cycles]	68		Events	50		Time[cycles]	65512
+[10525.965165] CUCL: Threshold[cycles]	69		Events	50		Time[cycles]	65512
+[10525.965166] CUCL: Threshold[cycles]	70		Events	50		Time[cycles]	65512
+[10525.965167] CUCL: Threshold[cycles]	71		Events	50		Time[cycles]	65512
+[10525.965168] CUCL: Threshold[cycles]	72		Events	50		Time[cycles]	65512
+[10525.965169] CUCL: Threshold[cycles]	73		Events	50		Time[cycles]	65512
+[10525.965169] CUCL: Threshold[cycles]	74		Events	50		Time[cycles]	65512
+[10525.965170] CUCL: Threshold[cycles]	75		Events	50		Time[cycles]	65512
+[10525.965171] CUCL: Threshold[cycles]	76		Events	50		Time[cycles]	65512
+[10525.965172] CUCL: Threshold[cycles]	77		Events	50		Time[cycles]	65512
+[10525.965173] CUCL: Threshold[cycles]	78		Events	50		Time[cycles]	65512
+[10525.965174] CUCL: Threshold[cycles]	79		Events	50		Time[cycles]	65512
+[10525.965174] CUCL: Threshold[cycles]	80		Events	50		Time[cycles]	65512
+[10525.965175] CUCL: Threshold[cycles]	81		Events	50		Time[cycles]	65512
+[10525.965176] CUCL: Threshold[cycles]	82		Events	50		Time[cycles]	65512
+[10525.965177] CUCL: Threshold[cycles]	83		Events	50		Time[cycles]	65512
+[10525.965178] CUCL: Threshold[cycles]	84		Events	50		Time[cycles]	65512
+[10525.965178] CUCL: Threshold[cycles]	85		Events	50		Time[cycles]	65512
+[10525.965179] CUCL: Threshold[cycles]	86		Events	50		Time[cycles]	65512
+[10525.965180] CUCL: Threshold[cycles]	87		Events	50		Time[cycles]	65512
+[10525.965181] CUCL: Threshold[cycles]	88		Events	50		Time[cycles]	65512
+[10525.965182] CUCL: Threshold[cycles]	89		Events	50		Time[cycles]	65512
+[10525.965183] CUCL: Threshold[cycles]	90		Events	50		Time[cycles]	65512
+[10525.965183] CUCL: Threshold[cycles]	91		Events	50		Time[cycles]	65512
+[10525.965184] CUCL: Threshold[cycles]	92		Events	50		Time[cycles]	65512
+[10525.965185] CUCL: Threshold[cycles]	93		Events	50		Time[cycles]	65512
+[10525.965186] CUCL: Threshold[cycles]	94		Events	50		Time[cycles]	65512
+[10525.965187] CUCL: Threshold[cycles]	95		Events	50		Time[cycles]	65512
+[10525.965188] CUCL: Threshold[cycles]	96		Events	50		Time[cycles]	65512
+[10525.965188] CUCL: Threshold[cycles]	97		Events	50		Time[cycles]	65512
+[10525.965189] CUCL: Threshold[cycles]	98		Events	50		Time[cycles]	65512
+[10525.965190] CUCL: Threshold[cycles]	99		Events	50		Time[cycles]	65512
+[10525.965191] CUCL: Threshold[cycles]	100		Events	50		Time[cycles]	65512
+[10525.965192] CUCL: Threshold[cycles]	101		Events	50		Time[cycles]	65512
+[10525.965193] CUCL: Threshold[cycles]	102		Events	50		Time[cycles]	65512
+[10525.965193] CUCL: Threshold[cycles]	103		Events	50		Time[cycles]	65512
+[10525.965194] CUCL: Threshold[cycles]	104		Events	50		Time[cycles]	65512
+[10525.965195] CUCL: Threshold[cycles]	105		Events	50		Time[cycles]	65512
+[10525.965196] CUCL: Threshold[cycles]	106		Events	50		Time[cycles]	65512
+[10525.965197] CUCL: Threshold[cycles]	107		Events	50		Time[cycles]	65512
+[10525.965197] CUCL: Threshold[cycles]	108		Events	50		Time[cycles]	65512
+[10525.965198] CUCL: Threshold[cycles]	109		Events	50		Time[cycles]	65512
+[10525.965199] CUCL: Threshold[cycles]	110		Events	50		Time[cycles]	65512
+[10525.965200] CUCL: Threshold[cycles]	111		Events	50		Time[cycles]	65512
+[10525.965201] CUCL: Threshold[cycles]	112		Events	50		Time[cycles]	65512
+[10525.965201] CUCL: Threshold[cycles]	113		Events	50		Time[cycles]	65512
+[10525.965202] CUCL: Threshold[cycles]	114		Events	50		Time[cycles]	65512
+[10525.965203] CUCL: Threshold[cycles]	115		Events	50		Time[cycles]	65512
+[10525.965204] CUCL: Threshold[cycles]	116		Events	50		Time[cycles]	65512
+[10525.965205] CUCL: Threshold[cycles]	117		Events	50		Time[cycles]	65512
+[10525.965205] CUCL: Threshold[cycles]	118		Events	50		Time[cycles]	65512
+[10525.965206] CUCL: Threshold[cycles]	119		Events	50		Time[cycles]	65512
+[10525.965207] CUCL: Threshold[cycles]	120		Events	50		Time[cycles]	65512
+[10525.965208] CUCL: Threshold[cycles]	121		Events	50		Time[cycles]	65512
+[10525.965209] CUCL: Threshold[cycles]	122		Events	50		Time[cycles]	65512
+[10525.965210] CUCL: Threshold[cycles]	123		Events	50		Time[cycles]	65512
+[10525.965210] CUCL: Threshold[cycles]	124		Events	50		Time[cycles]	65512
+[10525.965211] CUCL: Threshold[cycles]	125		Events	50		Time[cycles]	65512
+[10525.965212] CUCL: Threshold[cycles]	126		Events	50		Time[cycles]	65512
+[10525.965213] CUCL: Threshold[cycles]	127		Events	50		Time[cycles]	65512
+[10525.965214] CUCL: Threshold[cycles]	128		Events	50		Time[cycles]	65512
+[10525.965214] CUCL: Threshold[cycles]	129		Events	50		Time[cycles]	65512
+[10525.965215] CUCL: Threshold[cycles]	130		Events	50		Time[cycles]	65512
+[10525.965216] CUCL: Threshold[cycles]	131		Events	50		Time[cycles]	65512
+[10525.965217] CUCL: Threshold[cycles]	132		Events	50		Time[cycles]	65512
+[10525.965218] CUCL: Threshold[cycles]	133		Events	50		Time[cycles]	65512
+[10525.965218] CUCL: Threshold[cycles]	134		Events	50		Time[cycles]	65512
+[10525.965219] CUCL: Threshold[cycles]	135		Events	50		Time[cycles]	65512
+[10525.965220] CUCL: Threshold[cycles]	136		Events	50		Time[cycles]	65512
+[10525.965221] CUCL: Threshold[cycles]	137		Events	50		Time[cycles]	65512
+[10525.965222] CUCL: Threshold[cycles]	138		Events	50		Time[cycles]	65512
+[10525.965223] CUCL: Threshold[cycles]	139		Events	50		Time[cycles]	65512
+[10525.965223] CUCL: Threshold[cycles]	140		Events	50		Time[cycles]	65512
+[10525.965224] CUCL: Threshold[cycles]	141		Events	50		Time[cycles]	65512
+[10525.965225] CUCL: Threshold[cycles]	142		Events	50		Time[cycles]	65512
+[10525.965226] CUCL: Threshold[cycles]	143		Events	50		Time[cycles]	65512
+[10525.965227] CUCL: Threshold[cycles]	144		Events	50		Time[cycles]	65512
+[10525.965227] CUCL: Threshold[cycles]	154		Events	20		Time[cycles]	61072
+[10525.965228] CUCL: Threshold[cycles]	164		Events	20		Time[cycles]	61072
+[10525.965229] CUCL: Threshold[cycles]	174		Events	20		Time[cycles]	61072
+[10525.965230] CUCL: Threshold[cycles]	184		Events	20		Time[cycles]	61072
+[10525.965231] CUCL: Threshold[cycles]	194		Events	20		Time[cycles]	61072
+[10525.965231] CUCL: Threshold[cycles]	204		Events	20		Time[cycles]	61072
+[10525.965232] CUCL: Threshold[cycles]	214		Events	20		Time[cycles]	61072
+[10525.965233] CUCL: Threshold[cycles]	224		Events	20		Time[cycles]	61072
+[10525.965234] CUCL: Threshold[cycles]	234		Events	20		Time[cycles]	61072
+[10525.965235] CUCL: Threshold[cycles]	244		Events	20		Time[cycles]	61072
+[10525.965236] CUCL: Threshold[cycles]	254		Events	20		Time[cycles]	61072
+[10525.965236] CUCL: Threshold[cycles]	264		Events	20		Time[cycles]	61072
+[10525.965237] CUCL: Threshold[cycles]	274		Events	20		Time[cycles]	61072
+[10525.965238] CUCL: Threshold[cycles]	284		Events	20		Time[cycles]	61072
+[10525.965239] CUCL: Threshold[cycles]	294		Events	20		Time[cycles]	61072
+[10525.965240] CUCL: Threshold[cycles]	304		Events	20		Time[cycles]	61072
+[10525.965240] CUCL: Threshold[cycles]	314		Events	20		Time[cycles]	61072
+[10525.965241] CUCL: Threshold[cycles]	324		Events	20		Time[cycles]	61072
+[10525.965242] CUCL: Threshold[cycles]	334		Events	20		Time[cycles]	61072
+[10525.965243] CUCL: Threshold[cycles]	344		Events	20		Time[cycles]	61072
+[10525.965244] CUCL: Threshold[cycles]	354		Events	20		Time[cycles]	61072
+[10525.965244] CUCL: Threshold[cycles]	364		Events	20		Time[cycles]	61072
+[10525.965245] CUCL: Threshold[cycles]	374		Events	20		Time[cycles]	61072
+[10525.965246] CUCL: Threshold[cycles]	384		Events	20		Time[cycles]	61072
+[10525.965247] CUCL: Threshold[cycles]	394		Events	20		Time[cycles]	61072
+[10525.965248] CUCL: Threshold[cycles]	404		Events	20		Time[cycles]	61072
+[10525.965249] CUCL: Threshold[cycles]	414		Events	20		Time[cycles]	61072
+[10525.965249] CUCL: Threshold[cycles]	424		Events	20		Time[cycles]	61072
+[10525.965250] CUCL: Threshold[cycles]	434		Events	20		Time[cycles]	61072
+[10525.965251] CUCL: Threshold[cycles]	444		Events	20		Time[cycles]	61072
+[10525.965252] CUCL: Threshold[cycles]	544		Events	20		Time[cycles]	61072
+[10525.965253] CUCL: Threshold[cycles]	644		Events	20		Time[cycles]	61072
+[10525.965254] CUCL: Threshold[cycles]	744		Events	20		Time[cycles]	61072
+[10525.965254] CUCL: Threshold[cycles]	844		Events	20		Time[cycles]	61072
+[10525.965255] CUCL: Threshold[cycles]	944		Events	20		Time[cycles]	61072
+[10525.965256] CUCL: Threshold[cycles]	1044		Events	20		Time[cycles]	61072
+[10525.965257] CUCL: Threshold[cycles]	1144		Events	20		Time[cycles]	61072
+[10525.965258] CUCL: Threshold[cycles]	1244		Events	20		Time[cycles]	61072
+[10525.965258] CUCL: Threshold[cycles]	1344		Events	20		Time[cycles]	61072
+[10525.965259] CUCL: Threshold[cycles]	1444		Events	20		Time[cycles]	61072
+[10525.965260] CUCL: Threshold[cycles]	1544		Events	20		Time[cycles]	61072
+[10525.965261] CUCL: Threshold[cycles]	1644		Events	20		Time[cycles]	61072
+[10525.965262] CUCL: Threshold[cycles]	1744		Events	20		Time[cycles]	61072
+[10525.965263] CUCL: Threshold[cycles]	1844		Events	20		Time[cycles]	61072
+[10525.965263] CUCL: Threshold[cycles]	1944		Events	20		Time[cycles]	61072
+[10525.965264] CUCL: Threshold[cycles]	2044		Events	20		Time[cycles]	61072
+[10525.965265] CUCL: Threshold[cycles]	2144		Events	20		Time[cycles]	61072
+[10525.965266] CUCL: Threshold[cycles]	2244		Events	20		Time[cycles]	61072
+[10525.965267] CUCL: Threshold[cycles]	2344		Events	20		Time[cycles]	61072
+[10525.965267] CUCL: Threshold[cycles]	2444		Events	19		Time[cycles]	58656
+[10525.965268] CUCL: Threshold[cycles]	2544		Events	10		Time[cycles]	36220
+[10525.965269] CUCL: Threshold[cycles]	2644		Events	8		Time[cycles]	31044
+[10525.965270] CUCL: Threshold[cycles]	2744		Events	7		Time[cycles]	28316
+[10525.965271] CUCL: Threshold[cycles]	2844		Events	6		Time[cycles]	25516
+[10525.965271] CUCL: Threshold[cycles]	2944		Events	5		Time[cycles]	22664
+[10525.965272] CUCL: Threshold[cycles]	3044		Events	5		Time[cycles]	22664
+[10525.965273] CUCL: Threshold[cycles]	3144		Events	5		Time[cycles]	22664
+[10525.965274] CUCL: Threshold[cycles]	3244		Events	5		Time[cycles]	22664
+[10525.965275] CUCL: Threshold[cycles]	3344		Events	5		Time[cycles]	22664
+[10525.965275] CUCL: Threshold[cycles]	3444		Events	5		Time[cycles]	22664
+[10525.965276] CUCL: Threshold[cycles]	3544		Events	5		Time[cycles]	22664
+[10525.965277] CUCL: Threshold[cycles]	3644		Events	5		Time[cycles]	22664
+[10525.965278] CUCL: Threshold[cycles]	3744		Events	5		Time[cycles]	22664
+[10525.965279] CUCL: Threshold[cycles]	3844		Events	5		Time[cycles]	22664
+[10525.965279] CUCL: Threshold[cycles]	3944		Events	5		Time[cycles]	22664
+[10525.965280] CUCL: Threshold[cycles]	4044		Events	4		Time[cycles]	18668
+[10525.965281] CUCL: Threshold[cycles]	4144		Events	3		Time[cycles]	14604
+[10525.965282] CUCL: Threshold[cycles]	4244		Events	3		Time[cycles]	14604
+[10525.965283] CUCL: Threshold[cycles]	4344		Events	3		Time[cycles]	14604
+[10525.965283] CUCL: Threshold[cycles]	4444		Events	3		Time[cycles]	14604
+[10525.965284] CUCL: successfully ended
+
