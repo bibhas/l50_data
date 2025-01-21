@@ -1,0 +1,11 @@
+Host latency (Experiment 4) statistics:
+  Minimum: 0.000001356
+  Median: 0.000007680
+  99.9th Percentile: 0.000009332
+  Maximum: 0.000123233
+
+Client server latency (Experiment 6a) statistics:
+  Minimum: 0.000009792
+  Median: 0.000018816
+  99.9th Percentile: 0.000025832
+  Maximum: 0.000144988
