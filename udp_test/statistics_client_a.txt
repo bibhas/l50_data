@@ -1,0 +1,14 @@
+Client running on machine A
+
+
+Consecutive Differences Statistics: (This basically measures the host latency of B)
+  Minimum: 0.000004648
+  Median: 0.000009728
+  99.9th Percentile: 0.000016028
+  Maximum: 0.000128528
+
+Every Two-Line Differences Statistics: (This measures the RTT)
+  Minimum: 0.000012156
+  Median: 0.000018308
+  99.9th Percentile: 0.000024584
+  Maximum: 0.000328128
